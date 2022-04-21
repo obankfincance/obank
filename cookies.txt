@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+obanksimulator.ngpf.org	TRUE	/	FALSE	1999999999	PHPSESSID	gtpodv4mgl6pd6s87lnltjq0r6
+
